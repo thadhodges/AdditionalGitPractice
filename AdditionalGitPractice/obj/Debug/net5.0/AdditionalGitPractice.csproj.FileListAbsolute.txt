@@ -1,0 +1,16 @@
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\bin\Debug\net5.0\AdditionalGitPractice.exe
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\bin\Debug\net5.0\AdditionalGitPractice.deps.json
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\bin\Debug\net5.0\AdditionalGitPractice.runtimeconfig.json
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\bin\Debug\net5.0\AdditionalGitPractice.runtimeconfig.dev.json
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\bin\Debug\net5.0\AdditionalGitPractice.dll
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\bin\Debug\net5.0\ref\AdditionalGitPractice.dll
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\bin\Debug\net5.0\AdditionalGitPractice.pdb
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\AdditionalGitPractice.csprojAssemblyReference.cache
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\AdditionalGitPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\AdditionalGitPractice.AssemblyInfoInputs.cache
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\AdditionalGitPractice.AssemblyInfo.cs
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\AdditionalGitPractice.csproj.CoreCompileInputs.cache
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\AdditionalGitPractice.dll
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\ref\AdditionalGitPractice.dll
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\AdditionalGitPractice.pdb
+C:\WORK\REPO\AdditionalGitPractice\AdditionalGitPractice\obj\Debug\net5.0\AdditionalGitPractice.genruntimeconfig.cache
