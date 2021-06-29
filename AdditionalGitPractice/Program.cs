@@ -7,7 +7,8 @@ namespace AdditionalGitPractice
         static void Main(string[] args)
         {
             Console.WriteLine("What is your name, Please?");
-            Console.ReadLine();
+            var name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}, Nice to meet you!");
         }
     }
 }
